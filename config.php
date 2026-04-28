@@ -1,8 +1,6 @@
 <?php
-// Local XAMPP default settings.
-// On InfinityFree or AwardSpace, replace these values with your hosting database details.
-define('DB_HOST', 'localhost');
-define('DB_NAME', 'internet_blog');
-define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_HOST', 'your_database_host');
+define('DB_NAME', 'your_database_name');
+define('DB_USER', 'your_database_username');
+define('DB_PASS', 'your_database_password');
 ?>

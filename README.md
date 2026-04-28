@@ -34,6 +34,11 @@ This is a dynamic blog website for the Internet Computing project. It uses PHP a
 6. Open:
    ```text
    http://localhost/website2-dynamic-php-blog
+   InfinityFree Live URL:
+https://technomindblog.lovestoblog.com/
+
+Second Free Hosting Live URL:
+http://technomindblog.atwebpages.com/
    ```
 
 ## Important Database Config
