@@ -4,13 +4,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Student Blog | Dynamic Website</title>
+  <title>Techno minds</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <header class="site-header">
   <nav class="nav">
-    <a class="brand" href="index.php">Student<span>Blog</span></a>
+    <a class="brand" href="index.php">Techno <span>minds</span></a>
     <div>
       <a href="index.php">Home</a>
       <a class="button small" href="create.php">New Post</a>

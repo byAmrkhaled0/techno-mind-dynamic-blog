@@ -1,5 +1,4 @@
-CREATE DATABASE IF NOT EXISTS internet_blog CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-USE internet_blog;
+
 
 CREATE TABLE IF NOT EXISTS posts (
   id INT AUTO_INCREMENT PRIMARY KEY,
