@@ -1,6 +1,6 @@
 <?php
-define('DB_HOST', 'your_database_host');
-define('DB_NAME', 'your_database_name');
-define('DB_USER', 'your_database_username');
-define('DB_PASS', 'your_database_password');
+define('DB_HOST', 'fdb1034.awardspace.net');
+define('DB_NAME', '4754563_amr');
+define('DB_USER', '4754563_amr');
+define('DB_PASS', 'Aa8454029##')');
 ?>
