@@ -34,11 +34,7 @@ This is a dynamic blog website for the Internet Computing project. It uses PHP a
 6. Open:
    ```text
    http://localhost/website2-dynamic-php-blog
-   InfinityFree Live URL:
-https://technomindblog.lovestoblog.com/
-
-Second Free Hosting Live URL:
-http://technomindblog.atwebpages.com/
+   
    ```
 
 ## Important Database Config
@@ -72,6 +68,18 @@ For InfinityFree or AwardSpace, replace these values with the database details f
 5. Edit `config.php` with the AwardSpace database credentials.
 6. Upload the website files using File Manager or FTP.
 7. Open your live URL and test the blog.
+## Deployment Links
+
+InfinityFree Live URL:
+https://technomindblog.lovestoblog.com/
+
+Second Free Hosting Live URL:
+http://technomindblog.atwebpages.com/
 
 ## Screenshots
 Add screenshots of deployment steps inside the `screenshots` folder.
+InfinityFree Live URL:
+https://technomindblog.lovestoblog.com/
+
+Second Free Hosting Live URL:
+http://technomindblog.atwebpages.com/
